@@ -1,4 +1,4 @@
-# Rock&Show - Watch & Download Movies
+# Rock&Show - Movies information
 
 Rock&Show is a web application that allows users to search, browse, and view movie details using the OMDb API.
 
